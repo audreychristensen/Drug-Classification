@@ -19,9 +19,9 @@
     {
       "cell_type": "markdown",
       "source": [
-        "# Make copies of this workbook if you are going to play with new model inputs! Because this one at least runs even if the accuracy is only 17% lol\n",
+        "# \n",
         "\n",
-        "Also be sure to subset the metadata first to like 200 observations just to play with different options so it doesn't take so long"
+        ""
       ],
       "metadata": {
         "id": "BfAAKYCdLnc1"
